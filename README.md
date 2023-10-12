@@ -1,2 +1,0 @@
-# mac-website
-website
